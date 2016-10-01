@@ -9,8 +9,8 @@
 
 ## 目录
 
-- [0. 前言](sections-cn/0-preface.md)
-  - [0.1 不要盲目的听从建议](sections-cn/0-preface.md#01-不要盲目的听从建议) `MUST NOT`
+- [0. 前言](sections/0-preface.md)
+  - [0.1 不要盲目的听从建议](sections/0-preface.md#01-不要盲目的听从建议) `MUST NOT`
 
 - [1. Hygienic Rules](sections/1-hygienic-rules.md)
   - [1.1. SHOULD enforce a reasonable line length](sections/1-hygienic-rules.md#11-should-enforce-a-reasonable-line-length)
